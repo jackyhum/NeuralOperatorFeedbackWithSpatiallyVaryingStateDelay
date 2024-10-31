@@ -11,4 +11,4 @@ The relevant code is stored in a folder named “Tau2,” where “code” conta
 Considering that the size of the dataset is about 40GB, we have not provided the dataset for training, as an alternative, you can run two files with the prefix "getDataFrom...". They will generate the datasets for Case1 and Case2 respectively, which will take you about 4 hours to generate them.
 
 ### Neural Operator Controller Simulations
-`FinalNOcontroller.ipynb` in `Code` File  will load  data generated in the two files. In the meantime, we have provided the weight parameters of the trained network in the Module, and you can also modify the variable "reTrain" to retrain it.
+`FinalNOcontroller.ipynb` in "Code" Folder  will load  data generated in the two files. In the meantime, we have provided the weight parameters of the trained network in the Module, and you can also modify the variable "reTrain" to retrain it.
