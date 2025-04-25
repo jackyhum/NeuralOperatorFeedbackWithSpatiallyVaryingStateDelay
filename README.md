@@ -8,6 +8,7 @@ Our demonstration code is based on Python 3.18 and utilizes several key third-pa
 * NumPy 1.24.3
 * pandas 2.0.3 
 * DeepXDE 1.10.0
+  
 Additional auxiliary third-party packages can be found in the import statements within the Jupyter Notebook. Before running our program, please ensure that these libraries are installed.The plotting part of the code is based on matplotlib version 3.5, libraries higher than this version may have errors.
 
 ## Demos
